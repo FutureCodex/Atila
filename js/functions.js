@@ -65,12 +65,12 @@ $(document).ready(function() {
         e.stopImmediatePropagation();
 
         const user = document.getElementById('user');
-        const password =document.getElementById('password');
+      /*  const password =document.getElementById('password'); */
 
-        const phone = '5492216240812';      
+        const phone = '5491170622858';      
 let msg = 'Hola! quiero crear mi usuario en el casino:\n';
         msg += '*Usuario:* ' + user.value + "\n";
-		msg += '*Contraseña:* ' + password.value + "\n";
+		/* msg += '*Contraseña:* ' + password.value + "\n";*/
 		
 		
        
