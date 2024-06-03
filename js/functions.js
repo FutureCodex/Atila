@@ -67,7 +67,7 @@ $(document).ready(function() {
         const user = document.getElementById('user');
       /*  const password =document.getElementById('password'); */
 
-        const phone = '5491170622858';      
+        const phone = '5491170609306';      
 let msg = 'Hola! quiero crear mi usuario en el casino:\n';
         msg += '*Usuario:* ' + user.value + "\n";
 		/* msg += '*Contraseña:* ' + password.value + "\n";*/
